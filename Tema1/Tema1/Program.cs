@@ -19,7 +19,7 @@ namespace Tema1
             //Exercitiu9();
             //Exercitiu10();
             //Exercitiu11();
-            Exercitiu12();
+            //Exercitiu12();
             //Exercitiu13();
             Exercitiu14();
         }
